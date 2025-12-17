@@ -1,0 +1,40 @@
+body {
+    background: #f2f5f7;
+    font-family: "Segoe UI", sans-serif;
+}
+
+.container-box {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+.header-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #37517e;
+}
+
+.section-title {
+    font-weight: 600;
+    color: #444;
+}
+
+.output-box {
+    background: #f9fafc;
+    padding: 15px;
+    border-left: 4px solid #37517e;
+    border-radius: 10px;
+    font-family: monospace;
+    white-space: pre-wrap;
+}
+
+.btn-custom {
+    background-color: #37517e;
+    color: white;
+    border-radius: 10px;
+}
+.btn-custom:hover {
+    background-color: #2e4266;
+}
